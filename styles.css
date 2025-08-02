@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    background-color:lightblue;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.item {
+    background-color: lightgray;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+}
